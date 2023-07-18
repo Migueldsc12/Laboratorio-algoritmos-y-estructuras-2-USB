@@ -1,0 +1,6 @@
+HashEntry -> HashTableEntry
+DList -> CircularList
+HashTable -> HashTableChaining
+CuckooEntry -> CuckooHashTableEntry
+CuckooTable -> CuckooHashTable
+
